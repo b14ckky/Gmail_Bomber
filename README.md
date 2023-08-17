@@ -1,6 +1,11 @@
 # Gmail_Bomber
 A Simple Gmail Flooder Tool !!
 
+- Requirements
+```
+pip install argparse secure-smtplib colorama termcolor
+```
+
 ```
 Usage:
 
